@@ -1,7 +1,7 @@
 # Car Analysis
 
  - [Intro](#intro)
- - [Instalação](#instalacao)
+ - [Instalação](#instalação)
 
 
 ## Intro
