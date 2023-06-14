@@ -20,8 +20,6 @@ A linguagem utilizada é R, especializada em análise e geração de relatórios
 
 #### 2. Baixe as extensões e plugins referentes à IDE escolhida
 
-
-
 #### 3. Crie um arquivo com a extensão .r 
 
 #### 4. Escreva a seguinte linha e rode o código para instalar os pacotes
