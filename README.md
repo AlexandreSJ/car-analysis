@@ -1,4 +1,4 @@
-# Car Analysis
+# Modelo Churn
 
  - [Intro](#intro)
  - [Instalação](#instalação)
